@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in HTML: incorrect casing of the `innerHTML` property.  The bug is in `bug.html`. The solution is provided in `bugSolution.html`. The issue is often missed due to inconsistent browser behavior.
